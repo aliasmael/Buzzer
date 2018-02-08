@@ -1,0 +1,1 @@
+export const CLEAR_ANSWERS = 'CLEAR_ANSWERS'

@@ -1,0 +1,8 @@
+# expo
+.expo
+
+# node_modules
+node_modules
+
+# dist folder
+dist
